@@ -1,7 +1,7 @@
 export const countries = [
 	{
 		name: 'Afghanistan',
-		code: 'AF'
+		code: 'AF' 
 	},
 	{
 		name: 'Åland Islands',

@@ -1,0 +1,24 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "brazil": "clear && node brazil.js brazil",
+    "searchB": "clear && node searchB.js b",
+    "addCountrie": "clear && node addCountrie.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaaveloso/node-package-json-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaaveloso/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/gaaveloso/node-package-json-template#readme"
+}
